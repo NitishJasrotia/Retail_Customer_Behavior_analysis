@@ -1,6 +1,6 @@
 # Retail_Customer_Behavior_analysis
 
-# 📊 Data Analytics Project
+# Data Analytics Project
 
 ## Overview
 
