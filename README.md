@@ -285,7 +285,7 @@ data-analytics-project/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/data-analytics-project.git
+git clone https://github.com/NitishJasrotia/data-analytics-project.git
 cd data-analytics-project
 ```
 
