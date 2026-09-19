@@ -349,19 +349,6 @@ This project demonstrates practical experience in:
 * **KPI Analysis**
 * **Data Storytelling**
 * **Business Insights & Recommendations**
-
----
-
-## 👤 Author
-
-**Your Name**
-
-Data Analyst | Python | SQL | Power BI
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 LinkedIn: [Your LinkedIn Profile]
-💻 GitHub: [Your GitHub Profile]
-
 ---
 
 ## ⭐ Project Goal
