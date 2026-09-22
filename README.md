@@ -70,8 +70,6 @@ Final Report
 Presentation using Gamma
 ```
 
----
-
 ```
 <img width="1466" height="805" alt="image" src="https://github.com/user-attachments/assets/f71042b2-db59-4dc1-a84b-66c4fa2a3dbb" />
 
