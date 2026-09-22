@@ -37,13 +37,10 @@ The dataset contains structured business data used to analyze trends, performanc
 | ----------------------------------- | --------------------------------------- |
 | **Python**                          | Data loading, cleaning, and EDA         |
 | **Pandas**                          | Data manipulation and analysis          |
-| **NumPy**                           | Numerical operations                    |
-| **Matplotlib / Seaborn**            | Data visualization                      |
 | **SQL**                             | Data querying and business analysis     |
-| **PostgreSQL / MySQL / SQL Server** | Database management                     |
+| **MySQL**                           | Database management                     |
 | **Power BI**                        | Interactive dashboard and visualization |
 | **Gamma**                           | Presentation/PPT creation               |
-| **Jupyter Notebook**                | Python-based analysis                   |
 
 ---
 
