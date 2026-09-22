@@ -159,117 +159,7 @@ GROUP BY category
 ORDER BY total_sales DESC;
 ```
 
----
-
-## 📈 Power BI Dashboard
-
-An interactive **Power BI dashboard** was created to communicate the key findings from the analysis.
-
-### Dashboard Features
-
-* KPI cards
-* Interactive charts
-* Trend analysis
-* Category-wise analysis
-* Filters and slicers
-* Time-based analysis
-* Performance comparison
-* Drill-down analysis where applicable
-
-The dashboard allows users to interact with the data and quickly understand the most important business metrics.
-
-```
-
----
-
-## 📊 Key Results & Insights
-
-The analysis helped identify important trends and patterns within the dataset.
-
-### Key Findings
-
-* Identified major performance trends
-* Compared categories/products/segments
-* Analyzed changes over time
-* Identified high- and low-performing segments
-* Evaluated important business KPIs
-* Identified areas requiring improvement
-
-### Business Recommendations
-
-Based on the analysis, recommendations were developed to support better business decision-making.
-
-> Replace these points with the actual insights and recommendations from your project. Avoid generic findings when submitting this project to recruiters.
-
----
-
-## 📄 Project Report
-
-A detailed report was prepared covering:
-
-1. Business problem
-2. Dataset description
-3. Data cleaning process
-4. Exploratory data analysis
-5. SQL analysis
-6. Power BI dashboard
-7. Key findings
-8. Business recommendations
-9. Conclusion
-
-The report provides a complete explanation of the analytical process and findings.
-
----
-
-## 🎤 Presentation
-
-A professional presentation was created using **Gamma** to summarize the project.
-
-The presentation covers:
-
-* Business problem
-* Data and methodology
-* Analysis
-* Key visualizations
-* Important insights
-* Recommendations
-* Conclusion
-
----
-
-## 📂 Project Structure
-
-```text
-data-analytics-project/
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── python/
-│   └── data_analysis.ipynb
-│
-├── sql/
-│   └── analysis_queries.sql
-│
-├── powerbi/
-│   └── dashboard.pbix
-│
-├── report/
-│   └── project_report.pdf
-│
-├── presentation/
-│   └── project_presentation.pdf
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
-```
-
----
-
-## ▶️ How to Run
+## How to Run
 
 ### Step 1: Clone the Repository
 
@@ -322,7 +212,7 @@ Update the data source/database connection if required.
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -336,10 +226,9 @@ This project demonstrates practical experience in:
 * **Power BI**
 * **Business Intelligence**
 * **KPI Analysis**
-* **Data Storytelling**
 * **Business Insights & Recommendations**
 ---
 
-## ⭐ Project Goal
+## Project Goal
 
-The goal of this project is to demonstrate how raw data can be transformed into **actionable business insights** using a complete data analytics pipeline — from **Python and SQL analysis to Power BI visualization and business reporting**.
+The goal of this project is to demonstrate how raw data can be transformed into **actionable business insights** using a complete data analytics pipeline from **Python and SQL analysis to Power BI visualization and business reporting**.
