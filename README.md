@@ -71,12 +71,6 @@ Presentation using Gamma
 ```
 
 ---
-## Suggested Color Palette for Dashboard
-<img width="1536" height="1024" alt="Copilot_20260922_091308" src="https://github.com/user-attachments/assets/8fd9a36b-6042-4f99-bd62-7fd910261d21" />
-Primary Blue: #1E88E5
-Emerald Green: #43A047
-Amber Yellow: #FDD835
-Crimson Red: #E53935
 
 ```
 <img width="1466" height="805" alt="image" src="https://github.com/user-attachments/assets/f71042b2-db59-4dc1-a84b-66c4fa2a3dbb" />
@@ -103,6 +97,13 @@ Average Review Rating: 3.75 → slightly below “good,” suggesting room for p
 Shipping Preferences:-
 Multiple shipping options are available, but analysis could reveal which drives higher satisfaction or repeat purchases.
 Free shipping or faster delivery may improve ratings and retention.
+
+## Suggested Color Palette for Dashboard
+<img width="1536" height="1024" alt="Copilot_20260922_091308" src="https://github.com/user-attachments/assets/8fd9a36b-6042-4f99-bd62-7fd910261d21" />
+Primary Blue: #1E88E5
+Emerald Green: #43A047
+Amber Yellow: #FDD835
+Crimson Red: #E53935
 
 ## Steps Performed
 
