@@ -130,9 +130,7 @@ The cleaned dataset was loaded into a relational database and analyzed using SQL
 
 **Database options used:**
 
-* PostgreSQL
 * MySQL
-* SQL Server
 
 SQL analysis included:
 
