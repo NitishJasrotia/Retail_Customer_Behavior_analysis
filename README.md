@@ -179,7 +179,7 @@ SQL analysis included:
 
 Example business questions:
 
-```sql
+sql
 -- Example: Total sales by category
 
 SELECT
