@@ -27,9 +27,7 @@ The dataset contains structured business data used to analyze trends, performanc
 
 **Dataset format:** CSV / Excel
 **Data processing:** Python
-**Database:** PostgreSQL / MySQL / SQL Server
-
-> Replace this section with a short description of your actual dataset, such as sales, customers, orders, employees, e-commerce transactions, etc.
+**Database:** MySQL 
 
 ---
 
