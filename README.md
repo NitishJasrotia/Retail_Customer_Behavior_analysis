@@ -178,10 +178,6 @@ An interactive **Power BI dashboard** was created to communicate the key finding
 
 The dashboard allows users to interact with the data and quickly understand the most important business metrics.
 
-> Add your Power BI dashboard screenshot here.
-
-```markdown
-![Power BI Dashboard](images/dashboard.png)
 ```
 
 ---
