@@ -71,6 +71,38 @@ Presentation using Gamma
 ```
 
 ---
+## Suggested Color Palette for Dashboard
+<img width="1536" height="1024" alt="Copilot_20260922_091308" src="https://github.com/user-attachments/assets/8fd9a36b-6042-4f99-bd62-7fd910261d21" />
+Primary Blue: #1E88E5
+Emerald Green: #43A047
+Amber Yellow: #FDD835
+Crimson Red: #E53935
+
+```
+<img width="1466" height="805" alt="image" src="https://github.com/user-attachments/assets/f71042b2-db59-4dc1-a84b-66c4fa2a3dbb" />
+
+## Key Insights from Dashboard
+
+Subscription Status:-
+Only 27% of customers are subscribed, while 73% are not.
+Opportunity: Focus on subscription campaigns to convert non‑subscribers, as this could drive recurring revenue.
+
+Revenue by Category:-
+Clothing generates the highest revenue and sales, followed by Accessories.
+Footwear and Outerwear lag behind → marketing or bundling strategies could boost these categories.
+
+Customer Demographics:-
+Young Adults contribute the highest revenue and sales.
+Middle‑aged customers are the second largest group.
+Seniors and Adults show lower engagement → targeted campaigns could increase their participation.
+
+Average Metrics:-
+Average Purchase Amount: $59.76 → indicates mid‑range spending behavior.
+Average Review Rating: 3.75 → slightly below “good,” suggesting room for product/service improvement.
+
+Shipping Preferences:-
+Multiple shipping options are available, but analysis could reveal which drives higher satisfaction or repeat purchases.
+Free shipping or faster delivery may improve ratings and retention.
 
 ## Steps Performed
 
@@ -157,31 +189,6 @@ SELECT
 FROM sales_data
 GROUP BY category
 ORDER BY total_sales DESC;
-```
-<img width="1466" height="805" alt="image" src="https://github.com/user-attachments/assets/f71042b2-db59-4dc1-a84b-66c4fa2a3dbb" />
-
-## Key Insights from Dashboard
-
-Subscription Status:-
-Only 27% of customers are subscribed, while 73% are not.
-Opportunity: Focus on subscription campaigns to convert non‑subscribers, as this could drive recurring revenue.
-
-Revenue by Category:-
-Clothing generates the highest revenue and sales, followed by Accessories.
-Footwear and Outerwear lag behind → marketing or bundling strategies could boost these categories.
-
-Customer Demographics:-
-Young Adults contribute the highest revenue and sales.
-Middle‑aged customers are the second largest group.
-Seniors and Adults show lower engagement → targeted campaigns could increase their participation.
-
-Average Metrics:-
-Average Purchase Amount: $59.76 → indicates mid‑range spending behavior.
-Average Review Rating: 3.75 → slightly below “good,” suggesting room for product/service improvement.
-
-Shipping Preferences:-
-Multiple shipping options are available, but analysis could reveal which drives higher satisfaction or repeat purchases.
-Free shipping or faster delivery may improve ratings and retention.
 
 ## How to Run
 
