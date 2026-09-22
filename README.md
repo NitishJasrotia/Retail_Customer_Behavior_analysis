@@ -21,7 +21,7 @@ The project focuses on transforming raw data into meaningful business insights u
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset contains structured business data used to analyze trends, performance, and key metrics.
 
@@ -31,7 +31,7 @@ The dataset contains structured business data used to analyze trends, performanc
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool                                | Purpose                                 |
 | ----------------------------------- | --------------------------------------- |
@@ -44,7 +44,7 @@ The dataset contains structured business data used to analyze trends, performanc
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```text
 Raw Dataset
@@ -72,7 +72,7 @@ Presentation using Gamma
 
 ---
 
-## 🔍 Steps Performed
+## Steps Performed
 
 ### 1. Data Loading
 
